@@ -35,13 +35,13 @@ Pseudocode
 
 ````
 ![flow](https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/flowchart%20nabilah_Page-1.jpg)
-##gambar salah login
+## gambar salah login
 ![gabar1](https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/gbr1%20salah%20user.PNG)
-##gambar password blu terisi
+## gambar password blu terisi
 ![gambar2](https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/gbr2%20apabila%20password%20belum%20terisi.PNG)
-##gambar berhasil
+## gambar berhasil
 ![gambar3](https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/gbr3%20berhasil%20login.PNG)
-##gambar diblokir
-![blokir(https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/blok.jpg)
+## gambar diblokir
+![blokir](https://github.com/NabilahTm/Tugas-Proweb-4/blob/master/blok.jpg)
 
 
